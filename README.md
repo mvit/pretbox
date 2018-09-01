@@ -6,11 +6,11 @@ pretbox is a beginner friendly, vagrant provisioning script that sets up pret's 
 ### Installing
 
 1. Download and install a VM provider listed in https://www.vagrantup.com/docs/providers/
-2. I recommend you use [url=http://virtualbox.org]VirtualBox[/url] as a provider, it's free.
-3. Download and install vagrant https://www.vagrantup.com/downloads.html
-4. Clone pretbox
-5. Using cmd or powershell, ``cd`` into the pretbox folder.
-6. Type ``vagrant up`` .
+  * I recommend you use http://virtualbox.org]VirtualBox as a provider, it's free.
+2. Download and install vagrant https://www.vagrantup.com/downloads.html
+3. Clone pretbox
+4. Using cmd or powershell, ``cd`` into the pretbox folder.
+5. Type ``vagrant up`` .
 
 ### Modifying files
 After setting up ``pretbox``, you will find that the ``pret`` folder has been populated with ``pokeruby`` and ``pokeemerald``. Modify anything inside of the ``pret/`` folder using either tools from your host or guest OS.
