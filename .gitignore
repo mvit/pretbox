@@ -2,3 +2,4 @@
 .DS_Store
 .vagrant/
 .pret/*
+!.pret/.gitkeep
